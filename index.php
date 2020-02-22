@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+<?
+php
+	echo "Hello word";
+?>
+
 <html>
 <head>
 	<title> Biodata </title>
