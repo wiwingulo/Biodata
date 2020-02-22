@@ -1,5 +1,4 @@
-<?
-php
+<?php
 	echo "Hello word";
 ?>
 
